@@ -1,0 +1,24 @@
+{
+  "name": "challenge-calculator",
+  "version": "1.0.0",
+  "description": "calculator",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon myapp/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegoherreraenff/node-challenge-calculator.git"
+  },
+  "author": "diego herrera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegoherreraenff/node-challenge-calculator/issues"
+  },
+  "homepage": "https://github.com/diegoherreraenff/node-challenge-calculator#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
